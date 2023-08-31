@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kanav Sethi</h1>
 <h3 align="center">Baker, Brewer, Content Creator and now a Data Scientist from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kanavsethi&label=Profile%20views&color=0e75b6&style=flat" alt="kanavsethi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanavsethi" alt="kanavsethi" /></a> </p>
-
 - 🌱 I’m currently learning **Deep Learning**
 
 - 💬 Ask me about **Python, Machine Learning, Deep Learning, Artificial Intelligence, Site Reliability Engineering**
@@ -17,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/kanav1997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanav1997" height="30" width="40" /></a>
 <a href="https://kaggle.com/kanav1997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kanav1997" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/codeisartyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codeisartyt" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@CodeIsArtYT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codeisartyt" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kanav1997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kanav1997" height="30" width="40" /></a>
 </p>
 
